@@ -22,10 +22,6 @@ button a:hover{
     justify-content: space-between;
 }
 
-/*body{
-   /* background-image: url(../img/images/tp/azul1.jpg);
-    color: whitesmoke;
-}*/
 
 #detail{
     margin-top: 40px;
@@ -171,8 +167,8 @@ div.container h4{
 }
 
 th{
-    color: white !important;
+    color:black;
 }
 td{
-    color: white !important;
+    color: black;
 }
